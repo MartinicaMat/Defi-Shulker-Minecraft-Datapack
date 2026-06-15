@@ -30,5 +30,5 @@ Dès que vous parcourez plus de **150 blocs** loin de votre campement, le systè
 
 ---
 
-## Bientot sur modrinth !
-Quand ca sortira sur Modrinth, on vous prévienra ici !
+## Retrouvez nous sur Modrinth ! 
+https://modrinth.com/datapack/defi-shulker
